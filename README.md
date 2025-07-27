@@ -22,6 +22,7 @@ Un admin poate adăuga sau edita cărți.
       <li><code>Carte</code>: cu atribute precum <code>titlu</code>, <code>autor</code>, <code>disponibila</code> (boolean)</li>
       <li><code>Utilizator</code>: cu atribute <code>nume</code>, <code>email</code>, <code>parola</code></li>
     </ul>
+    Respectă principiile programării orientate pe obiect: atributele trebuie să fie <code>private</code> și accesate prin <code>getters</code> și <code>setters</code>.
   </li>
   <li>Creează un mic program în <code>Main</code> care creează 2-3 obiecte și le afișează.</li>
   <li>Fă commituri frecvente și dă push codului pe Git la final.</li>
